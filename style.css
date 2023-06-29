@@ -1,0 +1,34 @@
+
+img {
+    width: 100%;
+
+}
+
+
+h1 {
+    
+    text-align: center;
+}
+
+h2 {
+    
+    text-align: center;
+}
+
+p {
+    text-align: center;
+
+}
+
+.imagembeneficios {
+    width: 40%
+
+}
+
+ul {
+    display: incline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
